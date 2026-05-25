@@ -30,8 +30,8 @@ available Election Commission of India data.
 ## Files in this Repository
 | File | Description |
 |---|---|
-| tn_election_analysis.sql | Main SQL queries — 3 stories |
-| tn_advanced_analysis.sql | Advanced analysis — 6 deep dives |
+| tn_master.sql | Main SQL queries — 3 stories |
+| tn_master_advanced.sql | Advanced analysis — 6 deep dives |
 | tn_master.csv | Master dataset — 234 rows, 19 columns |
 | TN_Election_Professional_Deck_v2.pptx | Stakeholder presentation |
 | screenshots/ | Power BI dashboard screenshots |
@@ -40,7 +40,7 @@ available Election Commission of India data.
 Election Commission of India — publicly available Form-20 results data
 
 ## Video Walkthrough
-[Link to Loom video]
+[https://www.linkedin.com/posts/riteshdasofficial_resumeprojectchallenge-codebasics-dataanalytics-ugcPost-7464640583064662016-lh9z/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACyeZCwBeY08PqWGABECq2AByvP9xVH2wIk]
 
 ## Dashboard
 Built in Power BI Desktop — 5 pages covering all 3 stories
